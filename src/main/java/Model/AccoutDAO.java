@@ -6,10 +6,9 @@ package Model;
  */
 public class AccoutDAO {
     public int code;
-    public String name;
-    public String address;
-    public String city;
-    public String state;
+    public int digit;
+    public int agencyCode;
+    public double balance;
     
     public void register() {
         

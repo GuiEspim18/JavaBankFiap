@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Model;
 
 /**
@@ -9,5 +5,24 @@ package Model;
  * @author guiespim
  */
 public class ClientDAO {
+    public Long cpf;
+    public String name;
+    public String address;
+    public String accountCode;
     
+    public void register() {
+        
+    }
+    
+    public void get() {
+        
+    }
+    
+    public void change() {
+        
+    }
+    
+    public void delete() {
+        
+    }
 }
