@@ -4,7 +4,7 @@ package Model;
  *
  * @author guiespim
  */
-public class ClientDAO {
+public class Client_DAO {
     public Long cpf;
     public String name;
     public String address;

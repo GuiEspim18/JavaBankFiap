@@ -4,7 +4,7 @@ package Model;
  *
  * @author guiespim
  */
-public class AgencyDAO {
+public class Agency_DAO {
     public int code;
     public String name;
     public String address;

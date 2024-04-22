@@ -4,7 +4,7 @@ package Model;
  *
  * @author guiespim
  */
-public class AccoutDAO {
+public class Account_DAO {
     public int code;
     public int digit;
     public int agencyCode;
